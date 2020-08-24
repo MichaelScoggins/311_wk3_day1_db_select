@@ -2,7 +2,7 @@
 
 ## Setup
 
-You should have created a Google Cloud account, created an project, created and instance, created a database in that instance called 'admin', installed MySQL Workbench and made a connection to that database. In this lesson we will practice querying data.
+You should have created a Google Cloud account, created a project, created an instance, created a database in that instance called 'admin', installed MySQL Workbench and made a connection to that database. In this lesson we will practice querying data.
 
 Start by opening MySQL Workbench
 
